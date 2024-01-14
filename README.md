@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/niteshsengar15" target="blank"><img src="https://img.shields.io/twitter/follow/niteshsengar15?logo=twitter&style=for-the-badge" alt="niteshsengar15" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 📝 I regularly write articles on [https://codecrafters.hashnode.dev/](https://codecrafters.hashnode.dev/)
 
