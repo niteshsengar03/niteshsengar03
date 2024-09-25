@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/niteshsengar15" target="blank"><img src="https://img.shields.io/twitter/follow/niteshsengar15?logo=twitter&style=for-the-badge" alt="niteshsengar15" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Devops**
 
 - 📝 I regularly write articles on [https://codecrafters.hashnode.dev/](https://codecrafters.hashnode.dev/)
 
-- 💬 Ask me about **C,C++,DSA**
+- 💬 Ask me about **js,Express and DSA**
 
 - 📫 How to reach me **niteshsengar9831@gmail.com**
 
