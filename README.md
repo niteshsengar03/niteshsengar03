@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/niteshsengar15" target="blank"><img src="https://img.shields.io/twitter/follow/niteshsengar15?logo=twitter&style=for-the-badge" alt="niteshsengar15" /></a> </p>
 
-- 🌱 I’m currently learning **Devops and Cloud**
+- 🌱  Enjoy learning in public
 
 - 📝 I regularly write articles on [https://codecrafters.hashnode.dev/](https://codecrafters.hashnode.dev/)
 
@@ -35,11 +35,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/niteshsengar03">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niteshsengar03&theme=radical" alt="Nitesh's GitHub Contribution"/>
-  </a>
-</p>
 
 <a> 
     <a href="https://github.com/niteshsengar03"><img alt="Nitesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=niteshsengar03&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
