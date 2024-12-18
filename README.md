@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on [https://codecrafters.hashnode.dev/](https://codecrafters.hashnode.dev/)
 
-- 💬 Ask me about **js,Express and DSA**
+- ❤️ Love to write code and explore new features
 
-- 📫 How to reach me **niteshsengar9831@gmail.com**
+- 📫 Reach me anytime: **niteshsengar9831@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
